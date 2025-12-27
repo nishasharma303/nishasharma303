@@ -1,6 +1,8 @@
 <h2 align="left">Hello World 👋! Myself Nisha</h2>
 
-###
+<p align="center">
+Building • Learning • Exploring
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishasharma303&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
